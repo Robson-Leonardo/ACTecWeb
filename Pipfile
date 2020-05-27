@@ -11,6 +11,10 @@ gunicorn = "*"
 flask-sqlalchemy = "*"
 pipfile = "*"
 pytz = "*"
+sqlalchemypip = "*"
+install = "*"
+pipenv = "*"
+sqlalchemy = "*"
 
 [requires]
 python_version = "3.8"
